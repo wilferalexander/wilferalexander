@@ -1,6 +1,12 @@
 # Welcome to My GitHub Profile! 👋
+### Hi there 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
+
+<h2>I'm Wilfer Alexander</h2>
+
+<h3> 💻 &nbsp;About Me </h3>
+<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
 
 ## About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
