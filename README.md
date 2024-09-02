@@ -48,10 +48,8 @@ I frequently work with the following Python libraries:
 <td width="50%">
 <h3>Robot Trading</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
-<p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
-
-En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo  en 6 etapas  donde la idea era contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real apalacandonos de varias herramientas de analisis de datos y de un api de yahoo,..</p>
 <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -79,7 +77,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank">
+<a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
