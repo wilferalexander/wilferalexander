@@ -38,3 +38,6 @@ I frequently work with the following Python libraries:
 * SpeechRecognition
 * OpenCV
 ...
+
+
+## DATA SCIENCE PROJECTS 🚀
