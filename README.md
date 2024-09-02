@@ -6,7 +6,7 @@
 <h2>I'm Wilfer Alexander</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
-<img src="https://github.com/wilferalexander/Graficos/blob/main/Designer.jpeg" width=100% height="300px" align="center"/>
+<img src="https://github.com/wilferalexander/Graficos/blob/main/Designer.jpeg" width=100% height="400px" max-width: 600px align="center"/>
 
 ## About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
