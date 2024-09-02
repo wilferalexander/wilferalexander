@@ -38,19 +38,19 @@ I frequently work with the following Python libraries:
 * SpeechRecognition
 * OpenCV
 ...
-
-
-## DATA SCIENCE PROJECTS 🚀
+  ## DATA SCIENCE PROJECTS 🚀
 
 <table>
 <tr>
-
+ 
 <td width="50%">
-<h3>ROBOT TRADING</h3>
+<h3>CREDIT SCORING PREDICTION</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso básico android"></a>
-<p align="justify">Este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo  en 6 etapas  donde la idea era contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real apalacandonos de varias herramientas de analisis de datos y de un api de yahoo,..</p>
-<a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
+
+En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
@@ -59,12 +59,12 @@ I frequently work with the following Python libraries:
 <td width="50%">
 <h3>COVID 19 ANALYSIS</h3>
 <div>                                       
-<a href="https://github.com/wilferalexander/Covid19" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
 
 Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
 </div>                                                             
-<a href="https://github.com/wilferalexander/Covid19/blob/main/Covid19.ipynb" target="_blank">
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
@@ -72,19 +72,94 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 <tr>
 <td width="50%">
-<h3>INTERACTIVE SALES DASHBOARD</h3>
+<h3>COSTUMER SPENDIND PREDICTION</h3>
 <div>                                       
-<a href="https://github.com/wilferalexander/sales_dashboard_streamlit" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/dashboard.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">📊 Visualización de datos de ventas📈 Creación de gráficos y tablas interactivos.🔍 Filtrado y segmentación de datos por diferentes criterios.utilizando la herramienta de streamlit para crear la presentacion final hacia el cliente.</p>
+<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
 </div>                                                             
-<a href="https://github.com/wilferalexander/sales_dashboard_streamlit" target="_blank">
+<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
  
+<td width="50%">
+<h3>STORE SALES ANALYSIS</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Como científico de datos, hemos sido convocados para analizar estos datos y ofrecer insights que guíen sus decisiones. Hemos utilizado SQLite.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+<h3>FINANCIAL FRAUD DETECTION</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/financial%20fraud%20detection.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">La urgencia por detectar fraudes en transacciones móviles de dinero ha llevado a una empresa del segmento Fintech a buscar soluciones innovadoras. Como científicos de datos hemos sido convocados para desarrollar un modelo de machine learning que pueda distinguir de manera precisa entre transacciones legítimas y fraudulentas.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Financial-Fraud-Detection" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+<td width="50%">
+<h3>MOVIE ANALYSIS</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/movie_analysis.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica. Como científico de datos especializado en la industria del entretenimiento, has sido convocado para analizar estos datos y ofrecer insights que guíen sus decisiones.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
 </tr>
 
 </table> 
+
+
+
+
+## ARTIFICIAL INTELLIGENCE PROJECTS 🚀
+
+<table>
+<tr>
+<td width="50%">
+<h3>YOUTUBE VIDEO TRANSCRIPT</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/youtube%20video%20transcript.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Este proyecto lo realicé con la finalidad de poder transcribir cualquier video de Youtube y tenerlo en formato de texto. La finalidad de este proyecto es poder colocar las transcripciones en cualquier video de Youtube.</p>
+<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                            
+</td>
+
+<td width="50%">
+</td>
+</tr>
+ 
+</table> 
+
+
+## Professional Snapshot
+🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
+
+## Learning Journey
+🌱 Currently, my focus is on mastering the intricacies of scikit-learn to further enhance my machine learning capabilities.
+
+## Collaboration
+👯 I'm open to collaborating on diverse projects that challenge and expand my skill set. If you have an exciting project, let's talk!
+
+## Let's Connect!
+💬 Feel free to ask me anything; I'm always here to help and share knowledge.
+
+📫 You can reach out to me via email at davidicc28@gmail.com.
+
+Looking forward to connecting with fellow enthusiasts and professionals! 😊
+
 
 
