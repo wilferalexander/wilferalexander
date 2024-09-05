@@ -82,12 +82,15 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </td>
  
 <td width="50%">
-<h3>STORE SALES ANALYSIS</h3>
+<h3>INTERACTIVE SALES DASHBOARD</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Como científico de datos, hemos sido convocados para analizar estos datos y ofrecer insights que guíen sus decisiones. Hemos utilizado SQLite.</p>
+<a href="https://github.com/wilferalexander/sales_dashboard_streamlit" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/storedash.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Eejemplo de un  dashboard Funcionalidades
+📊 Visualización de datos de ventas
+📈 Creación de gráficos y tablas interactivos.
+🔍 Filtrado y segmentación de datos por diferentes criterios..</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
+<a href="https://github.com/wilferalexander/sales_dashboard_streamlit/blob/main/dashboard.py" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
