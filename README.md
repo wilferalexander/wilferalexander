@@ -109,12 +109,24 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </td>
 
 <td width="50%">
-<h3>MOVIE ANALYSIS</h3>
+<h3></h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/movie_analysis.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica. Como científico de datos especializado en la industria del entretenimiento, has sido convocado para analizar estos datos y ofrecer insights que guíen sus decisiones.</p>
+<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/Consumer_Spending_Prediction.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web..</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank">
+<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction/blob/main/Consumer_Spending_Prediction_Layout1.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+
+<td width="50%">
+<h3>Consumer_Spending_Prediction</h3>
+<div>                                       
+<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/Consumer_Spending_Prediction.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web..</p>
+</div>                                                             
+<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction/blob/main/Consumer_Spending_Prediction_Layout1.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
