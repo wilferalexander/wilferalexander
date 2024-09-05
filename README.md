@@ -121,12 +121,26 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </tr>
 
 <td width="50%">
-<h3>Consumer_Spending_Prediction</h3>
+<h3>La Esencia del cliente</h3>
 <div>                                       
-<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/Consumer_Spending_Prediction.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web..</p>
+<a href="https://github.com/wilferalexander/LaEscenciadelcliente" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/La%20Esencia%20del%20cliente.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA. ACERCA DE FOODMART:Food Mart (CFM) es una cadena de tiendas de conveniencia de Estados Unidos. La sede de la empresa privada se encuentra en Mentor, Ohio, y en la actualidad hay aproximadamente 325 tiendas ubicadas en los EE.UU.. Convenient Food Mart opera mediante el sistema de franquicia.En 1988, Food Mart era la tercera cadena de tiendas de conveniencia del país.
+La bolsa NASDAQ dejó de cotizar en Convenient Food Mart ese mismo año al no cumplir la empresa los requisitos de información financiera.Carden & Cherry hizo publicidad de Convenient Food Mart con el personaje Ernest en la década de 1980...</p>
 </div>                                                             
-<a href="https://github.com/wilferalexander/Consumer_Spending_Prediction/blob/main/Consumer_Spending_Prediction_Layout1.ipynb" target="_blank">
+<a href="https://github.com/wilferalexander/LaEscenciadelcliente/blob/main/La_esencia_del_cliente.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+
+<td width="50%">
+<h3>La Esencia del cliente</h3>
+<div>                                       
+<a href="https://github.com/wilferalexander/LaEscenciadelcliente" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/La%20Esencia%20del%20cliente.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA. ACERCA DE FOODMART:Food Mart (CFM) es una cadena de tiendas de conveniencia de Estados Unidos. La sede de la empresa privada se encuentra en Mentor, Ohio, y en la actualidad hay aproximadamente 325 tiendas ubicadas en los EE.UU.. Convenient Food Mart opera mediante el sistema de franquicia.En 1988, Food Mart era la tercera cadena de tiendas de conveniencia del país.
+La bolsa NASDAQ dejó de cotizar en Convenient Food Mart ese mismo año al no cumplir la empresa los requisitos de información financiera.Carden & Cherry hizo publicidad de Convenient Food Mart con el personaje Ernest en la década de 1980...</p>
+</div>                                                             
+<a href="https://github.com/wilferalexander/LaEscenciadelcliente/blob/main/La_esencia_del_cliente.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
@@ -134,23 +148,6 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 
 </table> 
 
-
-
-
-## ARTIFICIAL INTELLIGENCE PROJECTS 🚀
-
-<table>
-<tr>
-<td width="50%">
-<h3>YOUTUBE VIDEO TRANSCRIPT</h3>
-<div>
-<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/youtube%20video%20transcript.jpeg" width="100%" alt="Curso básico android"></a>
-<p align="justify">Este proyecto lo realicé con la finalidad de poder transcribir cualquier video de Youtube y tenerlo en formato de texto. La finalidad de este proyecto es poder colocar las transcripciones en cualquier video de Youtube.</p>
-<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>                                            
-</td>
 
 <td width="50%">
 </td>
