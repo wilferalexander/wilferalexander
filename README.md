@@ -70,13 +70,11 @@ I frequently work with the following Python libraries:
 <h3>FUGA EMPLEADOS</h3>
 <div>                                       
 <a href="https://github.com/wilferalexander/Fuga_Empleados" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/fugaempleados.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">El objetivo principal del proyecto en el que vas a trabajar es reducir la fuga de empleados en la empresa. Nos enfocamos en tres áreas clave:
-
+<p align="justify">El objetivo principal del proyecto en el que vas a trabajar es reducir la fuga de empleados en la empresa. Nos enfocamos en tres áreas clave: 
     Entender y cuantificar el problema desde el punto de vista del negocio.
     Desarrollar un sistema automatizado de machine learning que identifique a los empleados con mayor riesgo de fuga.
     Comunicar los resultados de manera efectiva a la dirección.
-
-Utilizamos Python para este proceso y Tableau para visualizar los resultados. Puedes ver el </p>
+Utilizamos Python para este proceso y Tableau para visualizar los resultados. Puedes ver el..</p>
 </div>                                                             
 <a href="https://github.com/wilferalexander/Fuga_Empleados/blob/main/Fuga_Empleados.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
