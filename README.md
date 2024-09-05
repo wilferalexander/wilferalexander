@@ -109,7 +109,7 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </td>
 
 <td width="50%">
-<h3></h3>
+<h3>Consumer_Spending_Prediction</h3>
 <div>                                       
 <a href="https://github.com/wilferalexander/Consumer_Spending_Prediction" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/Consumer_Spending_Prediction.jpeg" width=="100%" alt="Curso básico android"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web..</p>
