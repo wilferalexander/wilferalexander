@@ -43,13 +43,11 @@ I frequently work with the following Python libraries:
 <tr>
  
 <td width="50%">
-<h3>CREDIT SCORING PREDICTION</h3>
+<h3>COVID 19 ANALYSIS</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
-<p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
-
-En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
+<a href="https://github.com/wilferalexander/Covid19" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/covid19.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:</p>
+<a href="https://github.com/wilferalexander/Covid19/blob/main/Covid19.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
