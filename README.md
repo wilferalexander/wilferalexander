@@ -98,12 +98,12 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 
 <tr>
 <td width="50%">
-<h3>FINANCIAL FRAUD DETECTION</h3>
+<h3>CREDIT SCORING</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/financial%20fraud%20detection.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">La urgencia por detectar fraudes en transacciones móviles de dinero ha llevado a una empresa del segmento Fintech a buscar soluciones innovadoras. Como científicos de datos hemos sido convocados para desarrollar un modelo de machine learning que pueda distinguir de manera precisa entre transacciones legítimas y fraudulentas.</p>
+<a href="https://github.com/wilferalexander/creditscoring" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/creditscoring.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Credit Scoring es un proyecto de machine learning enfocado en la predicción de la solvencia crediticia de los individuos. Este proyecto tiene como objetivo desarrollar un modelo predictivo que ayude a las instituciones financieras a tomar decisiones informadas sobre la concesión de créditos. . La importancia de reducir el riesgo crediticio es clave en el sector financiero. Nuestro cliente, una institución financiera alemana, ha reconocido la necesidad de adoptar enfoques innovadores para mejorar su capacidad de evaluar el riesgo crediticio de los clientes. La misión principal es identificar y clasificar a los clientes en dos categorías: "Buen Cliente (0)" y "Mal Cliente (1)". Este análisis permitirá a la institución tomar decisiones informadas y mitigar el riesgo de pérdidas crediticias.</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Financial-Fraud-Detection" target="_blank">
+<a href="https://github.com/wilferalexander/creditscoring/blob/main/CreditScoring.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
