@@ -10,8 +10,7 @@
 
 ## About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-Hello there! I'm passionate about the fascinating world of data science and artificial intelligence.-
-- 🎓 &nbsp; I am a systems engineer working for DHL Supply Chain I live in Colombia. .
+Hello there! I am passionate about the fascinating world of data science and artificial intelligence. 🎓 I am a systems engineer working for DHL Supply Chain in Colombia, where I specialize in implementing WMS systems. Additionally, I am enthusiastic about everything related to artificial intelligence and new technologies.
 
 
 ## 💻 Technical Stack
@@ -20,7 +19,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 * Languages: Python, SQL
-* Databases: PostgreSQL
+* Databases: PostgreSQL, SQL, ORACLE
 * Visualization Tools: Tableau, PowerBI
 * Version Control: Git, GitHub
 * IDE: VSCode
