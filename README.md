@@ -54,14 +54,12 @@ I frequently work with the following Python libraries:
 </td>
 
 <td width="50%">
-<h3>COVID 19 ANALYSIS</h3>
+<h3>ROBOT TRADING</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
-
-Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
+<a href="https://github.com/wilferalexander/-robot_trading-" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
