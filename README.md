@@ -119,7 +119,6 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </a>
 </td>
 </tr>
-
 <td width="50%">
 <h3>La Esencia del cliente</h3>
 <div>                                       
@@ -130,7 +129,6 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
-</tr>
 
 <td width="50%">
 <h3>Analisis de sentimientos</h3>
@@ -141,25 +139,6 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</td>
-</tr>
-
-<td width="50%">
-<h3>ABalon</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/sentiment.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Proyecto realizado para la Open University de los Países Bajos: En este proyecto, se llevó a cabo un análisis de sentimientos de varias aerolíneas utilizando información extraída de Twitter. El objetivo fue comprender los algoritmos y cómo se aplican en la ciencia de datos..</p>
-</div>                                                             
-<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-</tr>
-
-</table> 
-
-
-<td width="50%">
 </td>
 </tr>
  
