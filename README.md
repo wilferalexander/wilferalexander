@@ -124,8 +124,7 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 <h3>La Esencia del cliente</h3>
 <div>                                       
 <a href="https://github.com/wilferalexander/LaEscenciadelcliente" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/La%20Esencia%20del%20cliente.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA. ACERCA DE FOODMART:Food Mart (CFM) es una cadena de tiendas de conveniencia de Estados Unidos. La sede de la empresa privada se encuentra en Mentor, Ohio, y en la actualidad hay aproximadamente 325 tiendas ubicadas en los EE.UU.. Convenient Food Mart opera mediante el sistema de franquicia.En 1988, Food Mart era la tercera cadena de tiendas de conveniencia del país.
-La bolsa NASDAQ dejó de cotizar en Convenient Food Mart ese mismo año al no cumplir la empresa los requisitos de información financiera.Carden & Cherry hizo publicidad de Convenient Food Mart con el personaje Ernest en la década de 1980...</p>
+<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA..</p>
 </div>                                                             
 <a href="https://github.com/wilferalexander/LaEscenciadelcliente/blob/main/La_esencia_del_cliente.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
@@ -134,17 +133,17 @@ La bolsa NASDAQ dejó de cotizar en Convenient Food Mart ese mismo año al no cu
 </tr>
 
 <td width="50%">
-<h3>La Esencia del cliente</h3>
+<h3>Analisis de sentimientos</h3>
 <div>                                       
-<a href="https://github.com/wilferalexander/LaEscenciadelcliente" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/La%20Esencia%20del%20cliente.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">PREDECIR EL COSTE DE LAS CAMPAÑAS EN LOS MEDIOS DE COMUNICACIÓN EN FOOD MART DE EE.UU. EN BASE A LOS INGRESOS DE 60K CLIENTES, PRODUCTO, PROMOCIÓN Y CARACTERÍSTICAS DE LA TIENDA. ACERCA DE FOODMART:Food Mart (CFM) es una cadena de tiendas de conveniencia de Estados Unidos. La sede de la empresa privada se encuentra en Mentor, Ohio, y en la actualidad hay aproximadamente 325 tiendas ubicadas en los EE.UU.. Convenient Food Mart opera mediante el sistema de franquicia.En 1988, Food Mart era la tercera cadena de tiendas de conveniencia del país.
-La bolsa NASDAQ dejó de cotizar en Convenient Food Mart ese mismo año al no cumplir la empresa los requisitos de información financiera.Carden & Cherry hizo publicidad de Convenient Food Mart con el personaje Ernest en la década de 1980...</p>
+<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/sentiment.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Proyecto realizado para la Open University de los Países Bajos: En este proyecto, se llevó a cabo un análisis de sentimientos de varias aerolíneas utilizando información extraída de Twitter. El objetivo fue comprender los algoritmos y cómo se aplican en la ciencia de datos...</p>
 </div>                                                             
-<a href="https://github.com/wilferalexander/LaEscenciadelcliente/blob/main/La_esencia_del_cliente.ipynb" target="_blank">
+<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
 </tr>
+
 
 </table> 
 
