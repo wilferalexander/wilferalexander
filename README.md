@@ -141,6 +141,18 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </a>
 </td>
 </tr>
+
+<td width="50%">
+<h3>Predeccir la edad del Abalone</h3>
+<div>                                       
+<a href="https://github.com/wilferalexander/Task1" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/abalon.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Proyecto realizado para la Open University de los Países Bajos: Este conjunto de datos se recomienda para aprender y practicar sus habilidades en análisis de datos exploratorios , visualización de datos y técnicas de modelado de clasificación . Siéntase libre de explorar el conjunto de datos con múltiples técnicas de aprendizaje supervisadas y no supervisadas ..</p>
+</div>                                                             
+<a href="https://github.com/wilferalexander/Task1/blob/main/Analisis%20del%20abalon.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
  
 </table> 
 
