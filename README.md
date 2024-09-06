@@ -145,21 +145,18 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </table> 
 
 
-## Professional Snapshot
-🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
-
 ## Learning Journey
-🌱 Currently, my focus is on mastering the intricacies of scikit-learn to further enhance my machine learning capabilities.
+🌱 Currently, my focus is on mastering the intricacies of scikit-learn to further enhance my machine learning capabilities. i want to learn about entrainment models to generate intelligent chatboots for wms support.
 
 ## Collaboration
-👯 I'm open to collaborating on diverse projects that challenge and expand my skill set. If you have an exciting project, let's talk!
+👯 I am open to collaborate on various projects that challenge and expand my skill set. If you have an exciting project, let's talk!
 
-## Let's Connect!
+## Let's connect!
 💬 Feel free to ask me anything; I'm always here to help and share knowledge.
 
-📫 You can reach out to me via email at davidicc28@gmail.com.
+📫 You can get in touch with me by email at wilferalexander@gmail.com
 
-Looking forward to connecting with fellow enthusiasts and professionals! 😊
+I look forward to connecting with other enthusiasts and professionals!😊
 
 
 
