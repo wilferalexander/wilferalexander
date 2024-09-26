@@ -41,6 +41,19 @@ I frequently work with the following Python libraries:
 
 <table>
 <tr>
+
+
+<td width="50%">
+<h3>Proyecto de Predicción de Churn en Telecomunicaciones</h3>
+<div>                                       
+<a href="https://github.com/wilferalexander/DS_Telecom_Churn" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/DS_Telecom_Churn.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una empresa de telecomunicaciones desea mejorar la retención de sus clientes, identificando aquellos que tienen más chances de abandonar el servicio (Churn). Como científico de datos, tu objetivo será limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn...</p>
+</div>                                                             
+<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div> 
+</td>
  
 <td width="50%">
 <h3>COVID 19 ANALYSIS</h3>
@@ -52,18 +65,19 @@ I frequently work with the following Python libraries:
 </a>
 </div>                                            
 </td>
+</tr>
 
 <td width="50%">
 <h3>ROBOT TRADING</h3>
 <div>                                       
 <a href="https://github.com/wilferalexander/-robot_trading-" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/robottrading.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>
-</div>                                                             
+<p align="justify">este proyecto se trabajo como parte del bootcamp de alura latam donde se trabajo de la siguiente en 6 etapas el cual consiste Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real..</p>                                                         
 <a href="https://github.com/wilferalexander/-robot_trading-/blob/main/BootBitcoin.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</div>                                            
 </td>
-</tr>
+</tr>                                         
 
 <tr>
 <td width="50%">
@@ -155,18 +169,7 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </tr>
 
 
-<td width="50%">
-<h3>Proyecto de Predicción de Churn en Telecomunicaciones</h3>
-<div>                                       
-<a href="https://github.com/wilferalexander/DS_Telecom_Churn" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/DS_Telecom_Churn.jpeg" width=="100%" alt="Curso básico android"></a>
-<p align="justify">Una empresa de telecomunicaciones desea mejorar la retención de sus clientes, identificando aquellos que tienen más chances de abandonar el servicio (Churn). Como científico de datos, tu objetivo será limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn...</p>
-</div>                                                             
-<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-</tr>
- 
+
 </table> 
 
 
