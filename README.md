@@ -153,6 +153,19 @@ Utilizamos Python para este proceso y Tableau para visualizar los resultados. Pu
 </a>
 </td>
 </tr>
+
+
+<td width="50%">
+<h3>Proyecto de Predicción de Churn en Telecomunicaciones</h3>
+<div>                                       
+<a href="https://github.com/wilferalexander/DS_Telecom_Churn" target="_blank"><img src="https://github.com/wilferalexander/Graficos/blob/main/DS_Telecom_Churn.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una empresa de telecomunicaciones desea mejorar la retención de sus clientes, identificando aquellos que tienen más chances de abandonar el servicio (Churn). Como científico de datos, tu objetivo será limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn...</p>
+</div>                                                             
+<a href="https://github.com/wilferalexander/Task2_analisisdesentimientos/blob/main/Task%202%20Wilfer%20Echavarria_V2.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
  
 </table> 
 
